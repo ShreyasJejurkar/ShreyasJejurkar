@@ -6,4 +6,4 @@ Sometimes I blog here. https://mccshreyas.wordpress.com/
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCCShreyas&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCCShreyas&layout=compact)

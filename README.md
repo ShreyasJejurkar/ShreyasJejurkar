@@ -1,3 +1,5 @@
+[![](https://vistr.dev/badge?repo=MCCshreyas.MCCshreyas&corners=square)](https://github.com/MCCshreyas)
+
 * Contributes to .NET & Javascript projects including [ASP.NET Core](https://github.com/dotnet/aspnetcore) & [.NET runtime](https://github.com/dotnet/runtime)
 * A .NET Foundation member.
 * Mostly working with Web Frameworks including ASP.NET Core, NodeJs, React & Angular. 

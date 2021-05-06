@@ -1,6 +1,6 @@
-[![](https://vistr.dev/badge?repo=MCCshreyas.MCCshreyas)](https://github.com/MCCshreyas)
-[![](https://img.shields.io/badge/-@MCCshreyas-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/MCCshreyas)
-[![](https://img.shields.io/badge/-@MCCshreyas-%23181717?style=flat-square&logo=github)](https://github.com/MCCshreyas)
+[![](https://vistr.dev/badge?repo=MCCshreyas.MCCshreyas)](https://github.com/ShreyasJejurkar)
+[![](https://img.shields.io/badge/-@MCCshreyas-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/ShreyasJejurkar)
+[![](https://img.shields.io/badge/-@MCCshreyas-%23181717?style=flat-square&logo=github)](https://github.com/ShreyasJejurkar)
 [![](https://img.shields.io/badge/-shreyasjejurkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyasjejurkar/)](https://www.linkedin.com/in/shreyasjejurkar/)
 
 * Contributes to .NET & Javascript projects including [ASP.NET Core](https://github.com/dotnet/aspnetcore) & [.NET runtime](https://github.com/dotnet/runtime)

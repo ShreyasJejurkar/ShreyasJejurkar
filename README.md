@@ -10,6 +10,6 @@
 * Sometimes I write here - https://mccshreyas.wordpress.com/
 * You can find me on [LinkedIn](https://www.linkedin.com/in/shreyasjejurkar/)
 
-![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCCShreyas&count_private=true&show_icons=true&theme=gotham&include_all_commits=true)
+![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyasJejurkar&count_private=true&show_icons=true&theme=gotham&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCCShreyas&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasJejurkar&layout=compact)

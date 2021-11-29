@@ -2,6 +2,7 @@
 [![](https://img.shields.io/badge/-@ShreyasJejurkar-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/ShreyasJejurkar)
 [![](https://img.shields.io/badge/-@ShreyasJejurkar-%23181717?style=flat-square&logo=github)](https://github.com/ShreyasJejurkar)
 [![](https://img.shields.io/badge/-shreyasjejurkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyasjejurkar/)](https://www.linkedin.com/in/shreyasjejurkar/)
+[![](https://img.shields.io/static/v1?label=&message=LinkTree&color=#512BD4)](https://linktr.ee/ShreyasJejurkar)
 
 * Contributes to .NET & Javascript projects including [ASP.NET Core](https://github.com/dotnet/aspnetcore) & [.NET runtime](https://github.com/dotnet/runtime)
 * A .NET Foundation member.

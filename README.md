@@ -11,6 +11,8 @@
 * Sometimes I write here - https://mccshreyas.wordpress.com/
 * You can find me on [LinkedIn](https://www.linkedin.com/in/shreyasjejurkar/)
 
+<img src="https://github-profile-trophy.vercel.app/?username=ShreyasJejurkar&theme=flat" width="100%">
+
 ![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyasJejurkar&count_private=true&show_icons=true&theme=gotham&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasJejurkar&layout=compact)

@@ -4,8 +4,8 @@
 [![](https://img.shields.io/badge/-shreyasjejurkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyasjejurkar/)](https://www.linkedin.com/in/shreyasjejurkar/)
 [![](https://img.shields.io/static/v1?label=&message=LinkTree&color=#512BD4)](https://linktr.ee/ShreyasJejurkar)
 
+* Software Engineer at Microsoft (Since April 2022). A .NET Foundation member.
 * Contributes to .NET & Javascript projects including [ASP.NET Core](https://github.com/dotnet/aspnetcore) & [.NET runtime](https://github.com/dotnet/runtime)
-* A .NET Foundation member.
 * Mostly working with Web Frameworks including ASP.NET Core, NodeJs, React & Angular. 
 * Software architecture is also my area of intrest, my learning focuses on Clean Architecture and Domain Driven Design. <br />
 * Sometimes I write here - https://mccshreyas.wordpress.com/
